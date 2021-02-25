@@ -14,7 +14,7 @@ namespace SimpleAPITest.test
         public void Test1()
         {
             IEnumerable<WeatherForecast> returnValue = controller.Get();
-            //Assert.True(returnValue != null);
+            Assert.True(returnValue != null);
 
         }
     }
