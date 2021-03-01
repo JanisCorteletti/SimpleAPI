@@ -9,3 +9,4 @@ Postman
 
 API:
 https://weathercondition.azurewebsites.net/api/WeatherForecast
+https://weathercondition.azurewebsites.net/api/WeatherForecast/Hot
